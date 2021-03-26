@@ -1,10 +1,14 @@
-import "./App.css";
 import Sarra from "./Sarra";
+import './App.css';
+import Sabrine from './Sabrine';
+
 
 function App() {
   return (
     <div className="App">
-      <Sarra />
+      <Sarra />    
+      <Sabrine />
+
     </div>
   );
 }
